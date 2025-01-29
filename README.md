@@ -83,3 +83,4 @@ For future improvements, the model can be enhanced by:
 This sentiment analysis project provides an effective pipeline for analyzing customer reviews and classifying them into positive and negative categories. Using TF-IDF vectorization and logistic regression, we build a model capable of accurately predicting sentiment based on text. The project demonstrates the application of machine learning and NLP techniques to derive valuable insights from text data, which is a valuable skill in today’s data-driven world.
 
 # Output
+![Image](https://github.com/user-attachments/assets/4304af06-3f7d-4ed8-b20e-89a2fbfb2766)
