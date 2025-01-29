@@ -23,7 +23,7 @@ The dataset used for this project is the IMDB dataset, which contains a collecti
 
 - Text: The review text from the customer or user.
 - Label: A binary label indicating sentiment: 1 for positive and 0 for negative.
-- 
+  
 The IMDB dataset is a widely used benchmark dataset for sentiment analysis, offering a large number of labeled movie reviews, making it an ideal candidate for this project.
 
 # Approach
@@ -72,7 +72,7 @@ This sentiment analysis model can be applied to various domains such as:
   - Customer Feedback: Analyzing customer reviews on e-commerce platforms or service providers to gain insights into customer satisfaction and areas for improvement.
   - Social Media Monitoring: Monitoring tweets, comments, or posts to track public sentiment about specific topics or brands.
   - Product/Brand Analysis: Understanding consumer sentiment about a product or brand can help businesses make data-driven decisions.
-  - 
+    
 For future improvements, the model can be enhanced by:
 
   - Using more sophisticated models like Random Forests, Support Vector Machines, or neural networks for better performance.
@@ -81,3 +81,5 @@ For future improvements, the model can be enhanced by:
     
 # Conclusion
 This sentiment analysis project provides an effective pipeline for analyzing customer reviews and classifying them into positive and negative categories. Using TF-IDF vectorization and logistic regression, we build a model capable of accurately predicting sentiment based on text. The project demonstrates the application of machine learning and NLP techniques to derive valuable insights from text data, which is a valuable skill in today’s data-driven world.
+
+# Output
